@@ -45,8 +45,8 @@ Se puede usar cualquier moneda siempre que se conozca su currency code. Pueden e
 
 ## Agradecimientos
 
-- Agradezco a [Alura] y [Oracle-ONE] por su ayuda, orientación y oportunidad.
-- Agradezco a los profesores [Génesys Rondón] y [Bruno Darío Fernández Ellerbach] por sus enseñanzas y orientación a traves de los videos para realizar este proyecto.
+- Agradezco a [AluraLatam](https://www.linkedin.com/company/alura-latam/) y [Oracle-ONE](https://www.linkedin.com/company/oracle/) por su ayuda, orientación y oportunidad.
+- Agradezco a los profesores [Génesys Rondón](https://www.linkedin.com/in/genesysrondon914762182/) y [Bruno Darío Fernández Ellerbach](https://www.linkedin.com/in/brunofernandezellerbach/) por sus enseñanzas y orientación a traves de los videos para realizar este proyecto.
 
 ## Contribución
 
