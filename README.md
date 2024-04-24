@@ -31,17 +31,17 @@ Nota personal: Al proyecto le falta bastante, pero con constancia se puede mejor
 
 ### GIF explicativo 1:
 
-![GIF explicativo 1]([gifs/GIF explicativo 1.gif](https://github.com/Jere2023/ConversorDeMonedasAluraONE/blob/main/gifs/GIF%20explicativo%201.gif))
+![GIF explicativo 1](gifs/GIFExplicativo01.gif)
 
 ### GIF explicativo 2:
 
-![GIF explicativo 2](gifs/GIF explicativo 2.gif)
+![GIF explicativo 2](gifs/GIFExplicativo02.gif)
 
 ### GIF explicativo 3: 
 Esta opción quizas sea el más interesante, ya que permite ver bien el funcionamiento de todos los requicitos del desafío.
 Se puede usar cualquier moneda siempre que se conozca su currency code. Pueden encontrar todos los currency code en la siguiente página: [API](https://www.exchangerate-api.com/docs/java-currency-api)
 
-![GIF explicativo 3](gifs/GIF explicativo 3.gif)
+![GIF explicativo 3](gifs/GIFExplicativo03.gif)
 
 ## Agradecimientos
 
