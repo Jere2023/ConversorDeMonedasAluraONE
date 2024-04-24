@@ -19,7 +19,7 @@ Exibición de Resultados a los usuarios;
 
 *******************************************************************************************
 
-Al API que usé fue: [ExchangeRate-API](https://www.exchangerate-api.com/)
+La API que usé fue: [ExchangeRate-API](https://www.exchangerate-api.com/)
 
 Nota personal: Fue muy desafiante, ya que fué mi primer poyecto donde consumia una API.
 
@@ -31,17 +31,17 @@ Nota personal: Al proyecto le falta bastante, pero con constancia se puede mejor
 
 ### GIF explicativo 1:
 
-![GIF explicativo 1](ruta/al/gif1.gif)
+![GIF explicativo 1](gifs/GIF explicativo 1.gif)
 
 ### GIF explicativo 2:
 
-![GIF explicativo 2](ruta/al/gif2.gif)
+![GIF explicativo 2](gifs/GIF explicativo 2.gif)
 
 ### GIF explicativo 3: 
 Esta opción quizas sea el más interesante, ya que permite ver bien el funcionamiento de todos los requicitos del desafío.
 Se puede usar cualquier moneda siempre que se conozca su currency code. Pueden encontrar todos los currency code en la siguiente página: [API](https://www.exchangerate-api.com/docs/java-currency-api)
 
-![GIF explicativo 3](ruta/al/gif3.gif)
+![GIF explicativo 3](gifs/GIF explicativo 3.gif)
 
 ## Agradecimientos
 
